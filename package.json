@@ -35,7 +35,7 @@
     "history": "^4.7.2",
     "hoist-non-react-statics": "^3.3.0",
     "idx": "^2.5.4",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-passport": "^0.0.5",
     "knex": "^0.16.3",
     "load-script": "^1.0.0",
